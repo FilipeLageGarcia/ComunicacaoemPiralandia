@@ -1,0 +1,16 @@
+H:\Workspace\ComunicaçãoemPiralandia\bin\Debug\net5.0\ComunicaçãoemPiralandia.exe
+H:\Workspace\ComunicaçãoemPiralandia\bin\Debug\net5.0\ComunicaçãoemPiralandia.deps.json
+H:\Workspace\ComunicaçãoemPiralandia\bin\Debug\net5.0\ComunicaçãoemPiralandia.runtimeconfig.json
+H:\Workspace\ComunicaçãoemPiralandia\bin\Debug\net5.0\ComunicaçãoemPiralandia.runtimeconfig.dev.json
+H:\Workspace\ComunicaçãoemPiralandia\bin\Debug\net5.0\ComunicaçãoemPiralandia.dll
+H:\Workspace\ComunicaçãoemPiralandia\bin\Debug\net5.0\ref\ComunicaçãoemPiralandia.dll
+H:\Workspace\ComunicaçãoemPiralandia\bin\Debug\net5.0\ComunicaçãoemPiralandia.pdb
+H:\Workspace\ComunicaçãoemPiralandia\obj\Debug\net5.0\ComunicaçãoemPiralandia.csprojAssemblyReference.cache
+H:\Workspace\ComunicaçãoemPiralandia\obj\Debug\net5.0\ComunicaçãoemPiralandia.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\ComunicaçãoemPiralandia\obj\Debug\net5.0\ComunicaçãoemPiralandia.AssemblyInfoInputs.cache
+H:\Workspace\ComunicaçãoemPiralandia\obj\Debug\net5.0\ComunicaçãoemPiralandia.AssemblyInfo.cs
+H:\Workspace\ComunicaçãoemPiralandia\obj\Debug\net5.0\ComunicaçãoemPiralandia.csproj.CoreCompileInputs.cache
+H:\Workspace\ComunicaçãoemPiralandia\obj\Debug\net5.0\ComunicaçãoemPiralandia.dll
+H:\Workspace\ComunicaçãoemPiralandia\obj\Debug\net5.0\ref\ComunicaçãoemPiralandia.dll
+H:\Workspace\ComunicaçãoemPiralandia\obj\Debug\net5.0\ComunicaçãoemPiralandia.pdb
+H:\Workspace\ComunicaçãoemPiralandia\obj\Debug\net5.0\ComunicaçãoemPiralandia.genruntimeconfig.cache
